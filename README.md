@@ -24,7 +24,7 @@ I'm an experienced IT Trainer with a robust background in software engineering a
 ## 🏫 Corporate Training Undertaken
 
 - **Path Infotech, Noida**: Core Java, Advanced Java, Servlets, JSP, WebLogic, Tomcat, Struts, JSTL
-- **Poornima college of engineering**: JavaScript, React
+- **Poornima college of engineering, Jaipur Rajasthan**: JavaScript, React
 - **HCL, Gurgaon**: Core Java, Advanced Java, Servlets, JSP, WebLogic, Tomcat, Struts, JSTL
 - **CRI, Kasoli**: JavaScript, OOP, Core Java, JDBC
 - **Apollo Technologies, New Delhi**: Core Java, Servlets, JSP, MyEclipse, WebLogic, Tomcat, Security
